@@ -53,4 +53,4 @@ else: #Sinon
 ```
 ### Pour lancer le programme :
 * En ligne de commande : ```python3 jeu.py```
-* En version web : https://geekflare.com/fr/online-compiler/python
+* Avec la version web : https://geekflare.com/fr/online-compiler/python
