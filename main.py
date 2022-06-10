@@ -9,7 +9,6 @@ def nombre_aleatoire(max):
 # Fonction qui contient le jeu
 def jeu():
     # TODO
-    print(nombre_aleatoire(100))
 
 
 # Fonction principale
