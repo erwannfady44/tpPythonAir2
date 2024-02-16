@@ -1,4 +1,4 @@
-# TP Python 11 Juin 2022, réalisation du jeu du plus ou moins en python
+# TP Python AIR2, réalisation du jeu du plus ou moins en python
 
 ## Travail à réaliser :
 - Ecrire la fonction jeu pour faire le plus ou moins
