@@ -14,9 +14,9 @@ Il faudra ensuite écrire l'algorithme permettant de faire fonctionner le jeu.
 2. Demander à l'utilisateur un nombre
 3. Comparer ce nombre avec le nombre stocké
 4. En fonction du nombre :
-    4. Le nombre est trop petit : afficher c'est plus et retourner à l'étape 2
-    5. Le nombre est trop grand : afficher c'est moins et retourner à l'étape 2 
-    6. Le nombre est correcte : afficher victoire
+    - Le nombre est trop petit : afficher c'est plus et retourner à l'étape 2
+    - Le nombre est trop grand : afficher c'est moins et retourner à l'étape 2 
+    - Le nombre est correcte : afficher victoire
 
 ### Pour aller plus loin
 Dans la suite, on peut ajouter différentes choses pour rendre le jeu interactif :
