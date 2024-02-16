@@ -32,6 +32,8 @@ Pour afficher du texte on utilise la commande print :
 Demander à l'utilisateur de saisir un nombre : 
 * ```nombre = input("saisir un nombre : ")```
 
+Calculer un nombre aléatoire :
+*```nombre_aleatoire = random.randint(1, 100)```
 ### Les boucles et conditionnelles :
 ##### La boucle Tant Que :
 Elle permet d'effectuer des actions tant qu'une donnée ne vérifie une condition :
@@ -53,4 +55,4 @@ else: #Sinon
 ```
 ### Pour lancer le programme :
 * En ligne de commande : ```python3 jeu.py```
-* Avec la version web : https://geekflare.com/fr/online-compiler/python
+* Avec la version web : https://www.online-python.com
