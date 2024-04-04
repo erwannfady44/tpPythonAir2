@@ -33,7 +33,7 @@ Demander à l'utilisateur de saisir un nombre :
 * ```nombre = input("saisir un nombre : ")```
 
 Calculer un nombre aléatoire :
-*```nombre_aleatoire = random.randint(1, 100)```
+```nombre_aleatoire = random.randint(1, 100)```
 ### Les boucles et conditionnelles :
 ##### La boucle Tant Que :
 Elle permet d'effectuer des actions tant qu'une donnée ne vérifie une condition :
